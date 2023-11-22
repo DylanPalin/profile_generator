@@ -1,0 +1,22 @@
+{
+  "name": "profile_generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "survey.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DylanPalin/profile_generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DylanPalin/profile_generator/issues"
+  },
+  "homepage": "https://github.com/DylanPalin/profile_generator#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
